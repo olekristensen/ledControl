@@ -8,8 +8,8 @@
 <Widget>
     <Kind>6</Kind>
     <Name>tRange</Name>
-    <HighValue>3035.828125000</HighValue>
-    <LowValue>2990.445800781</LowValue>
+    <HighValue>3289.968261719</HighValue>
+    <LowValue>3262.738769531</LowValue>
 </Widget>
 <Widget>
     <Kind>4</Kind>
@@ -45,8 +45,8 @@
 <Widget>
     <Kind>6</Kind>
     <Name>tRangePos</Name>
-    <HighValue>3053.980957031</HighValue>
-    <LowValue>3008.598632812</LowValue>
+    <HighValue>3299.044677734</HighValue>
+    <LowValue>3226.433105469</LowValue>
 </Widget>
 <Widget>
     <Kind>6</Kind>
